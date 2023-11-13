@@ -1,10 +1,10 @@
+import ListGroup from "./Components/ListGroup"
 
-import Message from "./Message"
 function App() {
   
   return (
     <>
-      <Message></Message>
+      <ListGroup></ListGroup>
         
     </>
   )
